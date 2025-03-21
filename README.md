@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5df45417-1289-4bfc-9179-28622e35a89d)
 
 --------------------   TR   ------------------------------
 
@@ -17,3 +16,5 @@ Completing the Windows 11 installation by skipping the mandatory internet connec
   • On the Windows 11 setup screen, open the Terminal by pressing Shift + F10.
   • If a Wi-Fi setup was attempted earlier, you need to run the netsh wlan commands.
   • If no prior connection was made via Wi-Fi or Ethernet, running the oobe command will be sufficient.
+
+![image](https://github.com/user-attachments/assets/5df45417-1289-4bfc-9179-28622e35a89d)
