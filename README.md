@@ -1,8 +1,10 @@
+![image](https://github.com/user-attachments/assets/5df45417-1289-4bfc-9179-28622e35a89d)
+
 --------------------   TR   ------------------------------
 
 Windows 11 kurulumundaki internet bağlantısı ve oturum açma zorunluluğunu atlayarak kurulumu tamamlamak için:
 
-• Kurulum ekranında Shift + F10 tuşlarına basarak Komut İstemi'ni açın. 
+• Kurulum ekranında Shift + F10 tuşlarına basarak Komut İstemi'ni açın.
 • Eğer daha önce Wi-Fi ile bağlantı kurulmaya çalışıldıysa, netsh wlan komutlarını çalıştırmanız gerekir.
 • Daha önce Wi-Fi veya Ethernet ile hiç bağlantı yapılmadıysa, sadece oobe komutunu çalıştırmanız yeterlidir.
 
